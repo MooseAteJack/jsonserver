@@ -1,15 +1,11 @@
 {
     "posts": [
       {
-        "ers_requests": {
-            "json": "biteme"
-          }
+        "id": 1,
+        "title": "hello"
       }
     ],
     "profile": {
       "name": "typicode"
-    },
-    "ers_requests": {
-      "json": "biteme"
     }
   }
