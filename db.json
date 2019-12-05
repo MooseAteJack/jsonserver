@@ -8,8 +8,5 @@
     "profile": {
       "name": "typicode"
     },
-    "ers_requests" : {
-        "Curriculum_Delivery_Allowance_API__c" : "6.6",
-        "Primary_CS_API__c" : "7.1"
-      }
+    "sms_requests" : {"message_id":289522196,"send_at":"2019-12-05 02:15:06","recipients":1,"cost":0.099,"sms":1,"delivery_stats":{"delivered":0,"pending":0,"bounced":0,"responses":0,"optouts":0},"error":{"code":"SUCCESS","description":"OK"}}
   }
