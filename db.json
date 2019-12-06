@@ -8,5 +8,5 @@
     "profile": {
       "name": "typicode"
     },
-    "sms_requests" : {"message_id":289522196,"send_at":"2019-12-05 02:15:06","recipients":1,"cost":0.099,"sms":1,"delivery_stats":{"delivered":0,"pending":0,"bounced":0,"responses":0,"optouts":0},"error":{"code":"SUCCESS","description":"OK"}}
+    "sms_requests" : {"message_id":123456,"send_at":"2019-12-05 02:15:06","recipients":1,"cost":99.999,"sms":1,"delivery_stats":{"delivered":0,"pending":0,"bounced":0,"responses":0,"optouts":0},"error":{"code":"SUCCESS","description":"TEST OK"}}
   }
